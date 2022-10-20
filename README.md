@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/f2/d9/b9/f2d9b95fdefed16e0f1d994b43e575fd.jpg)]
+![MasterHead](https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png)
 <h1 align="center">Hi 👋, I'm Soumyadip Dutta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">

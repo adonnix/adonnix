@@ -12,11 +12,10 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **HTML, CSS, C**
+- 💬 Ask me about **HTML, Rust, C**
 
 - 📫 How to reach me **adonnix18@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
